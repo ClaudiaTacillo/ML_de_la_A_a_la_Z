@@ -1,1 +1,2 @@
-# ML_de_la_A_a_la_Z
+# ML de la A a la Z
+Archivos y bases de datos del curso Machine Learning de la A a la Z de Udemy de Juan Gabriel Gomila
